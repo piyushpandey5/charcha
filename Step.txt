@@ -4,6 +4,6 @@
 (√) - Create a express server (Server.js)
 (√) - Do frontend part
 (√) - Install socket.io setup socket.io in server.js and client.js
-Client and message  logic  in client.js
-Recieve message on server and broadcast to all clients 
-Recieve message on client and display it. scroll to bottom button
+(√) - Client and message  logic  in client.js
+(√) - Recieve message on server and broadcast to all clients 
+(√) - Recieve message on client and display it. scroll to bottom button
